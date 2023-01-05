@@ -5,17 +5,20 @@
 
 .text-primary{
     color: #FD6E0A;
+
 }
 .btn-primary{
     color: #FFFFFF;
     font-weight: 700;
     font-size: 20px;
     border: 0;
-    padding: 18px 35px;
+    padding: 18px 35px ;
     height: 64px;
     border-radius: 5px;
     background: #FD6E0A;
+    
 }
+
 
 .header{
     background: #FFF8F3;
